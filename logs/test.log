@@ -1,8 +1,0 @@
-[2023-09-11 16:17:23] INFO | index | signal | {'message': 'user visits index()'}
-[2023-09-11 19:20:06] INFO | index | signal | {'message': 'user visits index()'}
-[2023-09-11 19:20:09] INFO | index | signal | {'message': 'user visits index()'}
-[2023-10-16 23:07:34] INFO | index | signal | {'message': 'user visits index()'}
-[2023-10-17 09:12:18] INFO | index | signal | {'message': 'user visits index()'}
-[2023-10-17 09:12:18] INFO | index | signal | {'message': 'user visits index()'}
-[2023-10-17 13:27:17] INFO | index | signal | {'message': 'user visits index()'}
-[2023-10-17 13:29:33] INFO | index | signal | {'message': 'user visits index()'}
